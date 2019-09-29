@@ -10,7 +10,6 @@
 // Fibonacci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...
 //
 // NOTE: As it is now, can only calculate up to the 47th Fibonacci Number before experiencing overflow
-//		 Too lazy to change most everything to unsigned long long at the moment.
 
 #include <iostream>
 #include <chrono>
